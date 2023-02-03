@@ -1,14 +1,14 @@
 
-# H1 Simple Cookie Recipe!!!
+# Simple Cookie Recipe!!!
 
-Reference-style: 
+
 ![alt text][cookie]
 
 [cookie]: https://media.istockphoto.com/id/517109442/photo/chocolate-chip-cookie-isolated.jpg?s=612x612&w=0&k=20&c=RgZOYwzVRTXnIBy8zSkXK-wJfNBy9w023UGULkbH_VE= "Chocolate Chip Cookie"
 
 Every editorial product is *independently selected*, though we may be *compensated* or *receive* an **affiliate commission** if you buy something through our links. Ratings and prices are ~~accurate~~ and items are in stock as of time of publication.
 
-## H2 Ingredients
+## Ingredients
 
 1 cup butter, softened
 1 cup packed brown sugar
@@ -24,7 +24,7 @@ Shop Recipe
 Powered by Chicory
 
 
-## H2 Directions
+## Directions
 
 1. In a **large bowl**, beat butter and sugars until ~~blended~~. Beat in eggs and vanilla. 
 2. In a small bowl, whisk flour, baking soda and salt; gradually beat into butter mixture. Stir in chocolate chips and walnuts.
@@ -33,7 +33,7 @@ Powered by Chicory
 5. Bake until edges are golden brown (centers will be light), 10-12 minutes. Cool on pans 2 minutes Remove to wire racks to cool.
 
 
-## H2 Test Kitchen variations
+## Test Kitchen variations
 
 **Almond Chocolate Chip Cookies**: *Reduce vanilla to 1 teaspoon and add 1/4 teaspoon almond extract. Substitute toasted almonds for the walnuts.*
 **Almond Chocolate Chip Cookies**: *Reduce vanilla to 1 teaspoon and add 1/4 teaspoon almond extract. Substitute toasted almonds for the walnuts.* 
@@ -41,7 +41,7 @@ Powered by Chicory
 **Big & Buttery Cranberry Nut Cookies**: *Substitute dried cranberries for the chocolate chips.*
 
 
-### H3 Bibliography
+### Bibliography
 
 [cookie recipe website][food]
 
